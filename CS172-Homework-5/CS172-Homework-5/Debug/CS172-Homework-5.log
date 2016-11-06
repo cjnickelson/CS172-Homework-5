@@ -1,0 +1,18 @@
+﻿  Exercises 1, 2, and 4.cpp
+z:\cs172-1\cs172-homework-5\cs172-homework-5\cs172-homework-5\exercises 1, 2, and 4.cpp(54): warning C4018: '<': signed/unsigned mismatch
+z:\cs172-1\cs172-homework-5\cs172-homework-5\cs172-homework-5\exercises 1, 2, and 4.cpp(59): warning C4018: '<': signed/unsigned mismatch
+z:\cs172-1\cs172-homework-5\cs172-homework-5\cs172-homework-5\exercises 1, 2, and 4.cpp(66): warning C4018: '<': signed/unsigned mismatch
+z:\cs172-1\cs172-homework-5\cs172-homework-5\cs172-homework-5\exercises 1, 2, and 4.cpp(69): warning C4018: '<': signed/unsigned mismatch
+z:\cs172-1\cs172-homework-5\cs172-homework-5\cs172-homework-5\vector(exercise 3).h(133): warning C4018: '>': signed/unsigned mismatch
+  z:\cs172-1\cs172-homework-5\cs172-homework-5\cs172-homework-5\vector(exercise 3).h(131): note: while compiling class template member function 'void vector<int>::swap(vector<int>)'
+  z:\cs172-1\cs172-homework-5\cs172-homework-5\cs172-homework-5\exercises 1, 2, and 4.cpp(64): note: see reference to function template instantiation 'void vector<int>::swap(vector<int>)' being compiled
+  z:\cs172-1\cs172-homework-5\cs172-homework-5\cs172-homework-5\exercises 1, 2, and 4.cpp(51): note: see reference to class template instantiation 'vector<int>' being compiled
+z:\cs172-1\cs172-homework-5\cs172-homework-5\cs172-homework-5\vector(exercise 3).h(144): warning C4018: '<': signed/unsigned mismatch
+z:\cs172-1\cs172-homework-5\cs172-homework-5\cs172-homework-5\exercises 1, 2, and 4.cpp(115): warning C4018: '<': signed/unsigned mismatch
+  z:\cs172-1\cs172-homework-5\cs172-homework-5\cs172-homework-5\exercises 1, 2, and 4.cpp(62): note: see reference to function template instantiation 'void shuffle<int>(vector<int> &)' being compiled
+z:\cs172-1\cs172-homework-5\cs172-homework-5\cs172-homework-5\exercises 1, 2, and 4.cpp(118): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+z:\cs172-1\cs172-homework-5\cs172-homework-5\cs172-homework-5\exercises 1, 2, and 4.cpp(128): warning C4018: '<': signed/unsigned mismatch
+  Account (exercise 5).cpp
+  Generating Code...
+  CS172-Homework-5.vcxproj -> Z:\CS172-1\CS172-Homework-5\CS172-Homework-5\Debug\CS172-Homework-5.exe
+  CS172-Homework-5.vcxproj -> Z:\CS172-1\CS172-Homework-5\CS172-Homework-5\Debug\CS172-Homework-5.pdb (Full PDB)
